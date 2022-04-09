@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Kshitiz-Sharma-Business-Card/static/css/main.a97234ef.css",
-    "main.js": "/Kshitiz-Sharma-Business-Card/static/js/main.65e5b092.js",
+    "main.css": "/Kshitiz-Sharma-Business-Card/static/css/main.1f5c224d.css",
+    "main.js": "/Kshitiz-Sharma-Business-Card/static/js/main.3c4b9ae1.js",
     "static/media/pic_final.png": "/Kshitiz-Sharma-Business-Card/static/media/pic_final.740834597684f1695897.png",
     "index.html": "/Kshitiz-Sharma-Business-Card/index.html",
-    "main.a97234ef.css.map": "/Kshitiz-Sharma-Business-Card/static/css/main.a97234ef.css.map",
-    "main.65e5b092.js.map": "/Kshitiz-Sharma-Business-Card/static/js/main.65e5b092.js.map"
+    "main.1f5c224d.css.map": "/Kshitiz-Sharma-Business-Card/static/css/main.1f5c224d.css.map",
+    "main.3c4b9ae1.js.map": "/Kshitiz-Sharma-Business-Card/static/js/main.3c4b9ae1.js.map"
   },
   "entrypoints": [
-    "static/css/main.a97234ef.css",
-    "static/js/main.65e5b092.js"
+    "static/css/main.1f5c224d.css",
+    "static/js/main.3c4b9ae1.js"
   ]
 }
