@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/Kshitiz-Sharma-Business-Card/static/css/main.a97234ef.css",
+    "main.js": "/github.io/Kshitiz-Sharma-Business-Card/static/js/main.859aa5fb.js",
+    "static/media/pic_final.png": "/github.io/Kshitiz-Sharma-Business-Card/static/media/pic_final.740834597684f1695897.png",
+    "index.html": "/github.io/Kshitiz-Sharma-Business-Card/index.html",
+    "main.a97234ef.css.map": "/github.io/Kshitiz-Sharma-Business-Card/static/css/main.a97234ef.css.map",
+    "main.859aa5fb.js.map": "/github.io/Kshitiz-Sharma-Business-Card/static/js/main.859aa5fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a97234ef.css",
+    "static/js/main.859aa5fb.js"
+  ]
+}
